@@ -1,6 +1,6 @@
 .footer__container{
     background-color: #7352FF;
-    height: 150px;
+    height: 180px;
 
 }
 .h4{
@@ -19,16 +19,21 @@
     margin-right: 80%;
 }
 p{
+    margin-top: 0%;
+    margin-right: 50px;
     float: right;
     margin-top: 0;
     color: #ffffff;
 }
 .right>ul{
-    margin: 5px;
+    /* margin-left: 5px; */
+    /* margin: 5px; */
     cursor: pointer;
     color: white;
+   padding: 15px;
+  
     margin-left: 80%;
-    padding: 10px;
+    /* padding: 10px; */
     display: flex;
 list-style: none;
 justify-content: space-around;

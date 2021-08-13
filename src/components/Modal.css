@@ -1,0 +1,121 @@
+.first{
+    height: 15%;
+    display: flex;
+}
+.btn2{
+    margin-top: 8%;
+    
+}
+
+.btn2>button{
+ 
+    margin-bottom: 4px;
+background-color:#7352FF;
+    color: white;
+    padding: 6px;
+    border-color: transparent;
+    border-radius: 8px;
+}
+.btn3{
+    margin-top: 7%;
+    width: fit-content;
+    margin-left: 80%;
+}
+.btn3>button{
+    margin-bottom: 4px;
+    background-color:#7352FF;
+        color: white;
+        padding: 6px;
+        border-color: transparent;
+        border-radius: 8px;
+}
+.texts>h1{
+    margin-left: 15%;
+}
+.texts>p{
+    color: grey;
+    margin-left: 15%;
+}
+.texts>ul{
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+    margin-left: 7%;
+  justify-content:stretch;
+}
+.location{
+    display: flex;
+    margin-left: 9%;
+    float: left;
+}
+.section{
+    margin-left: 7%;
+}
+.btn4>button{
+    margin-bottom: 4px;
+background-color:#7352FF;
+    color: white;
+    padding: 6px;
+    border-color: transparent;
+    border-radius: 8px;
+    margin-left: 15px;
+}
+.btn5{
+    margin-left: 15px;
+    
+    background-color:#7352FF;
+        color: white;
+        /* padding: 6px; */
+        border-color: transparent;
+        border-radius: 8px;
+}
+.languages{
+    margin-left: 9%;
+    /* margin: 30%; */
+    margin-top: 30px;
+    display: flex;
+}
+.youtube__sec{
+    margin-left: 27%;
+}
+.youtube__sec .flex{
+    display: flex;
+}
+.iframe{
+   
+    margin-left: 70%;
+}
+.last{
+    padding: 15px;
+    width: 450px;
+    margin-top: 20px;
+}
+.input__box{
+   border: 2px solid #7352FF;
+  
+    height: 100px;
+    margin-top: 15px;
+    margin-left: 12%;
+    border-radius: 8px;
+    /* width: 400px; */
+}
+.texts>ul{
+    margin-top: 10px;
+}
+.input__box>h4{
+    margin-left: 5px;
+}
+.input__box>input{
+    border-radius: 8px;
+    width: 250px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.input__box>button{
+    margin-left: 10px;
+    background-color: #7352FF;
+    color: white;
+    padding: 10px;
+    border-color: transparent;
+    border-radius: 10px;
+}

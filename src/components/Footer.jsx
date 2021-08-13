@@ -4,6 +4,7 @@ import InstagramIcon from '@material-ui/icons/Instagram';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import Scrollbtn from './Scrollbtn';
 const Footer = () => {
     return (
         <div className="footer__container">
@@ -21,7 +22,7 @@ const Footer = () => {
        
 
      
-         <div className="right">
+<div className="right">
 <ul>
     <li>Terms</li>
     <li>Privacy</li>
@@ -29,7 +30,9 @@ const Footer = () => {
 </ul>
          </div>
      </div>
+     <Scrollbtn/>
         </div>
+    
     )
 }
 
