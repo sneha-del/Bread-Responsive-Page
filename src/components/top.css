@@ -1,0 +1,37 @@
+*{margin: 0px;}
+.top__contaainer{
+    background-color: #7352FF;
+    height: 400px;
+}
+.nav__container{
+    cursor: pointer;
+   height: 70px;
+    background-color: #7352FF;
+}
+.nav__container>ul{
+    
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+padding-top: 30px;
+
+    text-decoration: none;
+}
+.btn1{
+    text-align: center;
+    border-radius: 20px;
+    background-color: #7352FF;
+    padding: 8px;
+    margin-right: 25px;
+    width: 100px;
+    color: white;
+    border-color: white;
+}
+.h2{
+    font-size:x-large;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}

@@ -1,0 +1,35 @@
+.footer__container{
+    background-color: #7352FF;
+    height: 150px;
+
+}
+.h4{
+    color: #ffffff;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.icon>ul{
+    list-style: none;
+    display: flex;
+    cursor: pointer;
+    margin: 5px;
+    color: white;
+    padding: 10px;
+    justify-content: space-around;
+    margin-right: 80%;
+}
+p{
+    float: right;
+    margin-top: 0;
+    color: #ffffff;
+}
+.right>ul{
+    margin: 5px;
+    cursor: pointer;
+    color: white;
+    margin-left: 80%;
+    padding: 10px;
+    display: flex;
+list-style: none;
+justify-content: space-around;
+}

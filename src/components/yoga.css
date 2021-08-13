@@ -1,0 +1,11 @@
+.yoga__container{
+    background-color: black;
+    height: 400px;
+    
+}
+h2{
+    color: white;
+    text-align: center;
+    /* margin-top: 20%; */
+    padding-top: 30px;
+}
