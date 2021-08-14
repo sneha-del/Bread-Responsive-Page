@@ -1,6 +1,6 @@
 .footer__container{
     background-color: #7352FF;
-    height: 180px;
+    height: 220px;
 
 }
 .h4{
@@ -18,11 +18,10 @@
     justify-content: space-around;
     margin-right: 80%;
 }
-p{
-    margin-top: 0%;
+
+.ptext{
     margin-right: 50px;
     float: right;
-    margin-top: 0;
     color: #ffffff;
 }
 .right>ul{
@@ -37,4 +36,44 @@ p{
     display: flex;
 list-style: none;
 justify-content: space-around;
+}
+
+
+@media (max-width: 1080px) {
+    .footer__container{
+        background-color: #7352FF;
+        height: 180px;
+        display: center;
+    
+    }
+    .h4{
+        color: #ffffff;
+        padding-top: 30px;
+        padding-left: 20px;
+        text-align: center;
+    }
+    .icon>ul{
+        align-items: center;
+        margin: 5px;
+        color: white;
+        justify-content: center;
+    }
+    .ptext{
+        text-align: center;
+        justify-content: center;
+        float: none;
+        
+    }
+
+    
+    .right>ul{
+        align-items: center;
+        color: white;
+        margin: 5px;
+        justify-content: center;
+        
+    }
+
+    
+
 }

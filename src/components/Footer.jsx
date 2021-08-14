@@ -17,7 +17,9 @@ const Footer = () => {
          <li><LinkedInIcon/></li>
      </ul>
      </div>
+     <div className="ptext">
      <p>©Bread 2021 All rights reserved</p>
+     </div>
      <div >
        
 
